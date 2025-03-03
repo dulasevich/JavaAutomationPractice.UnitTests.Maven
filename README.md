@@ -1,1 +1,1 @@
-# JavaAutomationPractice.UnitTests.Maven
+Unit tests exercises with maven + TestNG
